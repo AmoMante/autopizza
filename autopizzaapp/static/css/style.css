@@ -7,8 +7,8 @@
   background-color: #EE5462;
 }
 
-.btn-pink:hover,
-.btn-pink:focus{
+.btn-pink: hover,
+.btn-pink: focus{
   color: white;
   background-color: #DA4F5D;
 
